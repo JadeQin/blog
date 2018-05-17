@@ -1,4 +1,4 @@
-BaseURL = "http://loveai88.github.com/"
+BaseURL = "http://loveai88.github.io/"
 LanguageCode = "zh-CN"
 HasCJKLanguage = true
 Title = "Big Data and Cloud Computing"
@@ -20,7 +20,7 @@ publishDir = "docs"
     baseName = "feed"
 
 [Params]
-  AuthorHomepage = "http://localhost:1313"
+  AuthorHomepage = "http://loveai88.github.io/"
   BottomIntroduce = "Introduce1 <br/> Introduce2"
   Description = ""
   Subtitle = ""
