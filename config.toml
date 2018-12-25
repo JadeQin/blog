@@ -1,4 +1,4 @@
-BaseURL = "http://JadeQin.github.io/"
+BaseURL = "https://JadeQin.github.io/"
 LanguageCode = "zh-CN"
 HasCJKLanguage = true
 Title = "Big Data and Cloud Computing"
@@ -20,7 +20,7 @@ publishDir = "docs"
     baseName = "feed"
 
 [Params]
-  AuthorHomepage = "http://JadeQin.github.io/"
+  AuthorHomepage = "https://JadeQin.github.io/"
   BottomIntroduce = "Introduce1 <br/> Introduce2"
   Description = ""
   Subtitle = ""
