@@ -1,6 +1,6 @@
 [submodule "docs"]
 	path = docs
-	url = git@github.com:loveai88/loveai88.github.io.git
+	url = git@github.com:JadeQin/JadeQin.github.io.git
 [submodule "themes/hugo-pacman-theme"]
 	path = themes/hugo-pacman-theme
 	url = https://github.com/coderzh/hugo-pacman-theme.git
